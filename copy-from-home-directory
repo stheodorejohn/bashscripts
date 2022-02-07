@@ -1,1 +1,1 @@
-cp -R ~/"photo" backups/ #meth
+cp -R ~/"photo" backups/ #copyfromuserhomedirectory
